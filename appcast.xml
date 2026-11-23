@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Luvian Wallpapers</title>
+    <item>
+      <title>1.0.0</title>
+      <pubDate>Mon, 23 Nov 2026 03:06:47 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>English</h3><ul><li>First version for Mac.</li><li>Choose a wallpaper and its sound for each display.</li><li>Pick how it looks on the first launch: Light, Balanced or Maximum.</li><li>Change the color of the character and its stripe.</li><li>English and Spanish.</li></ul><h3>Español</h3><ul><li>Primera versión para Mac.</li><li>Elige un fondo y su sonido para cada pantalla.</li><li>Escoge cómo se ve desde el primer inicio: Ligero, Equilibrado o Máxima.</li><li>Cambia el color del personaje y de su franja.</li><li>Inglés y español.</li></ul>]]></description>
+      <enclosure url="https://github.com/MarceloLuvian/luvian-wallpapers-releases/releases/download/v1.0.0/Luvian-Wallpapers-1.0.0.dmg" length="6331239" type="application/octet-stream" sparkle:edSignature="Q5KA29b2IjKjjtKpZifkC9QAp5QlNedu0U49rZAF77KqDYlY5YAwGHeNRmq1dEF+YPpvXuBlNXTCxkYwfuzEBw=="/>
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 3n6mUG3HJnmzbduXsD9VeLSxVJDziErRvKWv42HGsdzm2sGsj6IsBmp3royccxRB7VOVZ4MukuGrWmZsG1swDQ==
+length: 1386
+-->

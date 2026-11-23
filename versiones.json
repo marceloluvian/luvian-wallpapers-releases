@@ -1,0 +1,26 @@
+[
+  {
+    "version": "1.0.0",
+    "build": 4,
+    "fecha": "Mon, 23 Nov 2026 03:06:47 GMT",
+    "url": "https://github.com/MarceloLuvian/luvian-wallpapers-releases/releases/download/v1.0.0/Luvian-Wallpapers-1.0.0.dmg",
+    "tam": 6331239,
+    "firma": "Q5KA29b2IjKjjtKpZifkC9QAp5QlNedu0U49rZAF77KqDYlY5YAwGHeNRmq1dEF+YPpvXuBlNXTCxkYwfuzEBw==",
+    "notas": {
+      "en": [
+        "First version for Mac.",
+        "Choose a wallpaper and its sound for each display.",
+        "Pick how it looks on the first launch: Light, Balanced or Maximum.",
+        "Change the color of the character and its stripe.",
+        "English and Spanish."
+      ],
+      "es": [
+        "Primera versión para Mac.",
+        "Elige un fondo y su sonido para cada pantalla.",
+        "Escoge cómo se ve desde el primer inicio: Ligero, Equilibrado o Máxima.",
+        "Cambia el color del personaje y de su franja.",
+        "Inglés y español."
+      ]
+    }
+  }
+]
